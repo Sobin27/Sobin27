@@ -26,4 +26,6 @@
  
  
 </div>
+
+![Snake animation](https://github.com/justrony/justrony/blob/output/github-contribution-grid-snake.svg)
    
